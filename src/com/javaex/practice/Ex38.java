@@ -13,7 +13,7 @@ public class Ex38 {
 		System.out.print("전체금액을 입력해주세요: ");
 		int sum = sc.nextInt();
 
-		int real = (int) (sum / 1000) * 1000;
+		int real = (int) (sum / 1000) * 1000; // int형으로 형변환하여 소수점 이하 제외
 
 		System.out.println("실제지불금액은 " + real + " 입니다.");
 

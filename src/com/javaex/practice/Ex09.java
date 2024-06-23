@@ -5,9 +5,9 @@ public class Ex09 {
 	public static void main(String[] args) {
 		
 		/*
-		아래와 예제와 같이 작성해 보세요
-		예제) int 4byte 정수형
-		
+		 아래와 예제와 같이 작성해 보세요
+		 예제) int 4byte 정수형
+		 
 		 
 		 정답:
 		 

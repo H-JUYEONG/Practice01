@@ -18,7 +18,7 @@ public class Ex08 {
 		 
 		 정답:
 		 
-		 piblic class hello --> 클래스명은 대문자로 시작해야 한다.
+		 piblic class hello --> 파일명과 클래스명이 다르면 오류 발생(클래스명 첫 글자는 대문자로 작성해야 함)
 		 	  
 		 */
 		

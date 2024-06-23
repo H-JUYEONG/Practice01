@@ -13,7 +13,7 @@ public class Ex33 {
 		System.out.print("반지름: ");
 		double radius = sc.nextDouble();
 
-		double volume = 4.0/3 * 3.14 * Math.pow(radius, 3);
+		double volume = 4.0/3 * 3.14 * Math.pow(radius, 3); // 제곱함수 사용
 
 		System.out.println("구의 부피는: " + volume + " 입니다.");
 
